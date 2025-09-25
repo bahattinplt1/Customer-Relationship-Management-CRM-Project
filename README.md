@@ -94,16 +94,8 @@ Door een meer gestructureerd, geautomatiseerd en gebruiksvriendelijk systeem te 
 
 Business Requester: We’RHERE IT Academy
 
-## 🖼️ Visualisaties
-![Slayt1](https://github.com/user-attachments/assets/92ff8477-e17c-4d4d-9e7c-63a2b5dfd55b)
-![Slayt2](https://github.com/user-attachments/assets/b8e3cb89-2084-4d0f-be3e-f275f0cd2d4a)
-![Slayt3](https://github.com/user-attachments/assets/b675e4cc-3f63-4f91-b643-b0e122f69416)
-![Slayt4](https://github.com/user-attachments/assets/ef275816-88dc-4d0e-8b25-c32fbd0bb59d)
-![Slayt5](https://github.com/user-attachments/assets/30f3b12b-2182-4ac9-852d-9fa6f6361bf8)
-![Slayt6](https://github.com/user-attachments/assets/8270eba5-c698-4a5e-aa4f-ee6d6a6e0e53)
-![Slayt7](https://github.com/user-attachments/assets/d7f4dfe3-d646-42ae-ac1e-78a04cbd2d18)
-![Slayt8](https://github.com/user-attachments/assets/1fd1597e-7823-4958-bf0c-4cbf5b4bec4d)
-![Slayt9](https://github.com/user-attachments/assets/052a61f4-0e2d-41c8-835d-2eb4a80ad2f9)
+##  Visualisaties
+
 ![Slayt10](https://github.com/user-attachments/assets/48754433-33ff-4f5a-91cd-d5a50cbf7a30)
 ![Slayt11](https://github.com/user-attachments/assets/07b3121b-235a-4edd-a99c-d210bd4c9151)
 ![Slayt12](https://github.com/user-attachments/assets/37b44303-4485-49c8-a600-dde449d237e6)
@@ -124,6 +116,3 @@ Business Requester: We’RHERE IT Academy
 ![Slayt27](https://github.com/user-attachments/assets/e1d238bf-50d7-440c-9f8a-f5b53d2276c2)
 ![Slayt28](https://github.com/user-attachments/assets/641bfac5-0e98-445f-910c-0ab091d4ff19)
 ![Slayt29](https://github.com/user-attachments/assets/15248f32-523f-4361-97cc-d4858b638a39)
-![Slayt30](https://github.com/user-attachments/assets/62edb934-01d6-4bad-a99d-6059a7e3459b)
-![Slayt31](https://github.com/user-attachments/assets/6922f97f-158d-48ec-b776-f7f821becc11)
-![Slayt32](https://github.com/user-attachments/assets/210874fd-b86f-4b75-ba03-bbcc219dfe41)
